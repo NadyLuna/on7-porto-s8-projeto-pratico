@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "nomeLenda": "Os fantasmas do Teatro de Santa Isabel",
+        "local": "Teatro Santa Isabel",
+        "cidade": "Recife"
+        
+    },
+    {
+        "id":2,
+        "nomeLenda": "Alamoa, em Fernando de Noronha",
+        "local": "Ilha de Fernando de Noronha",
+        "cidade": "Fernando de Noronha"
+        
+    },
+    {
+        "id":3,
+        "nomeLenda": "A Velhinha da Caxangá",
+        "local":"Avenida Caxangá",
+        "cidade": "Recife"
+        
+    }
+]
